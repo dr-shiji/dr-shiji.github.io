@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -9,56 +9,55 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+### Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Ph.D in Filtering and Control, Tsinghua University, 2018
+  * Supervisor: Professor Stephen S.-T. Yau
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Visiting Scholar, Harvard University, 2017
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* B.S. in Information and Computing Science, North China Electric Power University, 2013
+
+### Work experience
+
+* 2022 -  Now:  Capital Normal University, Associate Researcher
+
+* 2020 - 2022: Capital Normal University, Postdoctoral Researcher
+
+* 2018 - 2020: Beijing Huahang Radio Measurement Research Institute‌, Engineer
+
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Research interests
 
-Publications
-======
+* Nonlinear filtering
+* Embodied control
+* Medical image processing 
+* Terahertz signal processing methods and their applications
+* Radar signal processing and target detection
+
+
+
+  
+
+### Service and leadership
+
+* Reviewer for IEEE TAC, IEEE TMI, IEE JBHI, IEEE Signal Processing Letters etc.
+
+
+<!-- ### Publications
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+### Talks
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
+### Teaching
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  {% endfor %}</ul> -->
