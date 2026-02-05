@@ -56,7 +56,7 @@ My research interests focus on the interdisciplinary area of applied mathematics
 
 ## 📊 Team Projects
 
-- 🔹 **https://github.com/JackJiao303/DGLG**  
+- 🔹 **https://github.com/dr-shiji/DGLG**  
 - 🔹 **https://github.com/xiuzhen-guo/OTCMC**  
 - 🔹 **https://github.com/dr-shiji/PINF**  
 
