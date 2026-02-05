@@ -15,7 +15,7 @@ Since 2020, I have been a postdoctoral researcher at **Capital Normal University
 
 My research interests focus on the interdisciplinary area of applied mathematics and machine learning, including:
 
-- Control
+- Filtering & Control
     - system state estimation
     - system identification
     - intelligent robotic control
