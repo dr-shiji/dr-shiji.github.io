@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shi Ji
+# 👋 Hi, I'm Ji Shi
 
 🎓 Associate Researcher | Filtering & Control | Medical Image Analysis  
 🏫 Capital Normal University, Beijing, 100048, China
