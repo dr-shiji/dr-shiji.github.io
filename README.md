@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Shi Ji
 
-🎓 Associate Researcher | Applied Mathematics | Medical Image Analysis  
-🏫 Capital Normal University  
+🎓 Associate Researcher | Filtering & Control | Medical Image Analysis  
+🏫 Capital Normal University, Beijing, 100048, China
 
----
 
 ## 🧑‍🔬 About Me
 
