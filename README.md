@@ -11,7 +11,6 @@ I received my PhD degree in **Applied Mathematics** from **Tsinghua University**
 From 2018 to 2020, I worked as an engineer at **Beijing Huahang Radio Measurement Institute**.  
 Since 2020, I have been a postdoctoral researcher at **Capital Normal University**, and I was appointed as an **Associate Researcher** in late 2022.
 
----
 
 ## 🔬 Research Interests
 
@@ -31,7 +30,6 @@ My research interests focus on the interdisciplinary area of applied mathematics
     - Terahertz signal processing and image enhancement
     - Radar signal processing and target detection
 
----
 
 ## 📄 Publications
 
@@ -40,24 +38,22 @@ My research interests focus on the interdisciplinary area of applied mathematics
 
 👉 Full list: [Publications](https://dr-shiji.github.io/publications)
 
----
 
 ## 🧪 Academic Services
 
 - Reviewer for IEEE TMI  
 - Reviewer for IEEE TAC 
 - Reviewer for IEEE JBHI
-- Reviewer for conferences: ACC, MICCAI, ICML, ICCV
+- Reviewer for top-tier conferences: ACC, MICCAI, ICML, ICCV, NIPS
 
----
 
 ## 🛠️ Skills
 
-- **Languages**: Python, MATLAB, C/C++  
 - **Topics**: Filtering, Embodied control, Medical image analysis, Deep Learning
+- **Languages**: Python, MATLAB, C/C++  
 - **Tools**: PyTorch, Linux, Git, Docker  
 
----
+
 
 ## 📊 Team Projects
 
@@ -65,13 +61,12 @@ My research interests focus on the interdisciplinary area of applied mathematics
 - 🔹 **https://github.com/xiuzhen-guo/OTCMC**  
 - 🔹 **https://github.com/dr-shiji/PINF**  
 
----
 
 ## 🌐 Personal Website
 
 🔗 https://dr-shiji.github.io  
 
----
+
 
 ## 📫 Contact
 
@@ -79,6 +74,6 @@ My research interests focus on the interdisciplinary area of applied mathematics
 - 💼 Google Scholar: [https://scholar.google.com/citations?user=3Os1AckAAAAJ&hl=zh-CN]  
 - 🧑‍💻 GitHub: https://github.com/dr-shiji  
 
----
+
 
 ⭐️ *Feel free to explore my repositories and reach out if you'd like to collaborate!*
